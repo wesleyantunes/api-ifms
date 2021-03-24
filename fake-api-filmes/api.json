@@ -1,0 +1,41 @@
+{
+   
+    "movies":[
+        {
+            "id":1,
+            "title":"Código de Conduta",
+            "year":"2009",
+            "genre":"Drama, Crime, Thriller",
+            "poster":"https://www.themoviedb.org/t/p/w220_and_h330_face/pW2PKCDKZ0ocEamVAEDDR3Buup2.jpg"
+        },
+        {
+            "id":2,
+            "title":"Monster Hunter",
+            "year":"2021",
+            "genre":"Fantasia, Ação, Aventura",
+            "poster":"https://www.themoviedb.org/t/p/w220_and_h330_face/2QhhILPAv7MKFd1q57ssQeEV2su.jpg"
+        }
+        ,
+        {
+            "id":3,
+            "title":"Pânico na Floresta: A Fundação",
+            "year":"2021",
+            "genre":"Terror, Thriller",
+            "poster":"https://www.themoviedb.org/t/p/w220_and_h330_face/rHmZDnvNy19PKv6dRNZGAj28e5o.jpg"
+        },
+        {
+            "id":4,
+            "title":"IT: A Coisa",
+            "year":"2017",
+            "genre":"Terror",
+            "poster":"https://www.themoviedb.org/t/p/w220_and_h330_face/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg"
+        },
+        {
+            "id":5,
+            "title":"Venom",
+            "year":"2018",
+            "genre":"Ficção Ciêntifica, Ação",
+            "poster":"https://www.themoviedb.org/t/p/w220_and_h330_face/qZK4LSj7crL6RNGUfD1LSJioA4u.jpg"
+        }
+    ]
+}
