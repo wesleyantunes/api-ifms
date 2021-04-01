@@ -27,7 +27,8 @@ async function getMovies(){
 }
 
 async function search(query){
-    const url = `http://localhost:3000/movies?q=${query}`
+    const url =  new URL(`http://localhost:3000/movies?q=${query}`)
+    console.log(url)
     
     const response = await axios.get(url);
     const movieList = Array.from(response.data)
