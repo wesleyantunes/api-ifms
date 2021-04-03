@@ -10,8 +10,8 @@
 ----------
 
 ### Lista de API's Públicas
-| Descrição |Link
-|-----------|----
-|VIACEP     |[https://viacep.com.br/](https://viacep.com.br/)
-|The Movie DB     |[https://www.themoviedb.org/](https://www.themoviedb.org/)
-|           |
+|Nome| Descrição |Link
+|----|-----------|----
+|VIACEP| Consulta de Endereços| [https://viacep.com.br/](https://viacep.com.br/)
+|The Movie DB| Dados sobre produções cinematográficas  |[https://www.themoviedb.org/](https://www.themoviedb.org/)
+|PokeAPI         | Dados sobre Pokemons| [https://pokeapi.co/](https://pokeapi.co/)
