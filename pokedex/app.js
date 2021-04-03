@@ -14,4 +14,6 @@ async function getPokemon(id){
 }
 
 getPokemon(1)
-getPokemon(15)
+getPokemon(2)
+getPokemon(3)
+getPokemon(4)
