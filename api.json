@@ -1,0 +1,99 @@
+{
+  "nivel_de_ensino":[
+    {
+      "id":"1",
+      "nivel_de_ensino":"Superior-Bacharelado"
+    },
+    {
+      "id":"2",
+      "nivel_de_ensino":"Superior"
+    },
+    {
+      "id":"3",
+      "nivel_de_ensino":"Médio"
+    }
+  ],
+
+  "cursos":[
+    {
+      "id":"1",
+      "curso":"Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "nivel_de_ensino":"Superior",
+      "duracao":"3 Anos | 2.560h",
+      "municipio":"Naviraí-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-superior/topo-analise-e-desenvolvimento-de-sistemas.png"
+    },
+    {
+      "id":"2",
+      "curso":"Tecnologia em Sistemas para Internet",
+      "nivel_de_ensino":"Superior",
+      "duracao":"3 Anos | 2.400h",
+      "municipio":"Naviraí-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-medio/topo-sistemas-para-internet.png"
+    },
+    {
+      "id":"3",
+      "curso":"Tecnologia em Produção de Grãos",
+      "nivel_de_ensino":"Superior",
+      "duracao":"3 Anos | 2.950h",
+      "municipio":"Nova Andradina-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-superior/topo-producao-de-graos.png"
+    },
+    {
+      "id":"4",
+      "curso":"Técnico Integrado em Agricultura",
+      "nivel_de_ensino":"Médio",
+      "duracao":"3 Anos | 3.380h",
+      "municipio":"Naviraí-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-medio/topo-agricultura.png"
+    },
+    {
+      "id":"5",
+      "curso":"Técnico Integrado em Alimentos",
+      "nivel_de_ensino":"Médio",
+      "duracao":"3 Anos | 3.290h",
+      "municipio":"Coxim-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-medio/topo-alimentos.png"
+    },
+    {
+      "id":"6",
+      "curso":"Técnico Integrado em Eletrotécnica",
+      "nivel_de_ensino":"Médio",
+      "duracao":"3 Anos | 3.320h",
+      "municipio":"Campo Grande-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-medio/topo-eletrotecnica.png"
+    },
+    {
+      "id":"7",
+      "curso":"Tecnologia em Jogos Digitais",
+      "nivel_de_ensino":"Superior",
+      "duracao":"3 Anos | 2.385h",
+      "municipio":"Naviraí-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-superior/topo-jogos-digitais.png"
+    },
+    {
+      "id":"8",
+      "curso":"Tecnologia em Redes de Computadores",
+      "nivel_de_ensino":"Superior",
+      "duracao":"3 Anos | 2.400h",
+      "municipio":"Aquidauana-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-superior/topo-redes-de-computadores.png"
+    },
+    {
+      "id":"9",
+      "curso":"Agronomia",
+      "nivel_de_ensino":"Superior-Bacharelado",
+      "duracao":"5 Anos | 4.335h",
+      "municipio":"Naviraí-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-superior/topo-agronomia.png"
+    },
+    {
+      "id":"10",
+      "curso":"Arquitetura e Urbanismo",
+      "nivel_de_ensino":"Superior-Bacharelado",
+      "duracao":"5 Anos | 3.780h",
+      "municipio":"Jardim-MS",
+      "img":"https://www.ifms.edu.br/imagens/cursos/topos-superior/toposuparquiteturaeurbanismo.png"
+    }
+  ]
+}
